@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# SortingVisualizer
+A react app for Visualizing Sorting Algorithms of Arrays.
+This is an app which is used for visualizing what is the heck behind the Sorting Algorithms happening.
+
+>>>>>>> 3d9e8ea8e6627b12a91cb7532c01354b71403041
